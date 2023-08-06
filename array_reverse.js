@@ -17,7 +17,7 @@ const no = [...now].reverse();
 console.log(no);
 
 
-
+ 
 
 //  for push elemetn into array 
 const arr = [1,2,3];
