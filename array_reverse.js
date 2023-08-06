@@ -2,7 +2,8 @@
 var array = [0,1,2,3,4];
 var newarr = [5,6];
 
-// for changing
+// for changing    
+//now for fetch
 
 array.reverse()
 console.log(array);
